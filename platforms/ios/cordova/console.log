@@ -1,0 +1,12 @@
+2014-06-02 17:32:57.138 HelloCordova[1695:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-02 17:32:57.166 HelloCordova[1695:70b] Unlimited access to network resources
+2014-06-02 17:32:57.584 HelloCordova[1695:70b] Resetting plugins due to page load.
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2014-06-02 17:32:59.211 HelloCordova[1695:70b] Finished load of: file:///Users/griff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FAE6F0A6-C2AF-429C-8898-545FECBA56E1/HelloCordova.app/www/index.html
+2014-06-02 17:40:42.037 HelloCordova[2057:70b] Multi-tasking -> Device: YES, App: YES
+2014-06-02 17:40:42.046 HelloCordova[2057:70b] Unlimited access to network resources
+2014-06-02 17:40:42.168 HelloCordova[2057:70b] Resetting plugins due to page load.
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2014-06-02 17:40:43.702 HelloCordova[2057:70b] Finished load of: file:///Users/griff/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/FAE6F0A6-C2AF-429C-8898-545FECBA56E1/HelloCordova.app/www/index.html
