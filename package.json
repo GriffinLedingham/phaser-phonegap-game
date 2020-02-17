@@ -2,7 +2,7 @@
   "name": "server",
   "version": "0.0.1",
   "dependencies": {
-    "express": "3.4.4",
+    "express": "4.17.1",
     "http": "*",
     "socket.io": "0.9.17"
   }
